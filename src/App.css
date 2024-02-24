@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(66, 65, 65);
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+h2{
+color: beige;
+}
+
+.main{
+   
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    height: 100vh;
+}
+button{
+    padding: 20px;
+    background-color: rgb(39, 37, 37);
+    border-radius: 20%;
+    color: aliceblue;
+    font-weight: 300;
+
+}
